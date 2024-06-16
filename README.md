@@ -5,7 +5,8 @@
 </div>
 
 # 💫 About Me:
-2nd Year Student at the University of California, Los Angeles Majoring in Computer Science<br>
+- 2nd Year Student at the University of California, Los Angeles 
+- Majoring in Computer Science<br>
 
 # 🚀 What I'm Up To
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
