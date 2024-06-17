@@ -5,7 +5,7 @@
 </div>
 
 # 💫 About Me:
-- 2nd Year Student at the University of California, Los Angeles 
+- 19 Year Old 2nd Year Student at the University of California, Los Angeles 
 - Majoring in Computer Science<br>
 
 # 🚀 What I'm Up To
