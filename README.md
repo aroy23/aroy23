@@ -9,9 +9,9 @@
 - Majoring in Computer Science<br>
 
 # 🚀 What I'm Up To
+- 🖨 Digital Services Center Intern @ [Ricoh](https://www.ricoh-usa.com/en) - Generative AI Software Development
+- 💿 Learning how to implement retrieval augmented generation (RAG) with [LlamaIndex](https://www.llamaindex.ai/)
 - 🤖 Exploring Machine Learning with [scikit-learn](https://scikit-learn.org/)
-- 💿 Learning the intricacies of x86-64 assembly language 
-
 
 # 💻 Tech Stack:
 Languages:
