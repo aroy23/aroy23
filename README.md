@@ -9,7 +9,7 @@
 - Majoring in Computer Science<br>
 
 # 🚀 What I'm Up To
-- 🖨 Software Engineering Intern @ [Ricoh USA](https://www.ricoh-usa.com/en) - **Generative AI Development**
+- 🖨 Software Engineering Intern @ [Ricoh USA](https://www.ricoh-usa.com/en)
 - 💿 Implementing **retrieval-augmented generation** (RAG) with [LlamaIndex](https://www.llamaindex.ai/)
 - 🤖 Exploring **Machine Learning** with [scikit-learn](https://scikit-learn.org/)
 
