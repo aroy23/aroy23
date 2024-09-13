@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there 👋 I'm Arnav Roy
+# Arnav Roy
 
 </div>
 
