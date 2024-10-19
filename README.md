@@ -9,7 +9,6 @@
 - Majoring in Computer Science<br>
 
 # 🚀 What I'm Up To
-- 💻 Learning [Nvidia CUDA](https://developer.nvidia.com/cuda-toolkit)
 - 🤖 Exploring **Machine Learning** with [scikit-learn](https://scikit-learn.org/)
 
 # 💻 Techologies:
