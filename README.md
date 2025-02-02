@@ -4,7 +4,7 @@
 
 </div>
 
-# 💫 About Me:
+# About Me:
 - Student at the University of California, Los Angeles 
 - Majoring in Computer Science<br>
 
