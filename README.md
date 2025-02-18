@@ -7,4 +7,4 @@ I recently implemented [retrieval-augmented generation](https://en.wikipedia.org
 
 I'm broadly interested in the fields of high-performance computing, robotics & transportation software, computer vision, and artificial intelligence.
 
-You can contact me on [LinkedIn](https://www.linkedin.com/in/arnavroy23/) or by email: arnavroy (at) ucla (dot) edu 
+You can contact me on [LinkedIn](https://www.linkedin.com/in/arnavroy23/) or by email: arnavroy[at]ucla[dot]edu 
