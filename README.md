@@ -1,5 +1,5 @@
 ## Hi there 👋
-I'm Arnav an undergraduate student at UCLA studying computer science.
+I'm Arnav, an undergraduate student at UCLA studying computer science.
 
 I love exploring complex computational intricacies in all software I work on.
 
