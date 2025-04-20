@@ -5,6 +5,6 @@ I love exploring complex computational intricacies in all software I work on.
 
 I recently developed a backend pipeline at Ricoh USA to optimize metadata ingestion for [retrieval-augmented generation](https://en.wikipedia.org/wiki/Retrieval-augmented_generation) (RAG) systems handling technical company documents
 
-I'm broadly interested in the fields of backend, performance optimization, automation software, and computer vision.
+I'm broadly interested in the fields of backend, performance optimization, and automation software.
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/arnavroy23/) or by email: arnavroy[at]ucla[dot]edu 
