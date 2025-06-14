@@ -6,6 +6,6 @@ I'm broadly interested in the fields of backend, automation software, artificial
 
 - I recently developed a backend pipeline at Ricoh USA to optimize metadata ingestion for RAG systems handling technical company documents
 
-- I'll be joining Amazon this summer as a Software Development Engineer Intern.
+- I'm currently interning at Amazon this summer as a Software Development Engineer Intern.
 
 You can contact me on [LinkedIn](https://www.linkedin.com/in/arnavroy23/) or by email: arnavroy[at]ucla[dot]edu 
