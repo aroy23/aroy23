@@ -1,4 +1,4 @@
-Hi! I'm Arnav, an undergraduate computer science student at UCLA, and I love programming.<br>
+Hi I'm Arnav, an undergraduate computer science student at UCLA<br>
 ##
 I'm broadly interested in the fields of backend, automation software, artificial intelligence, and performance optimization.
 
